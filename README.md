@@ -65,17 +65,6 @@ Designers, photographers, and video creators who want to:
 
 ---
 
-## Getting Started
-
-```bash
-git clone https://github.com/[your-username]/jihun-portfolio-site
-cd jihun-portfolio-site/client
-npm install
-npm run dev
-```
-
----
-
 ## License
 
 MIT License
